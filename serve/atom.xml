@@ -4,7 +4,7 @@
  <title>Jekyll Bootstrap</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2014-10-20T22:53:20+08:00</updated>
+ <updated>2014-10-25T23:36:51+08:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Jing Shen</name>
@@ -14,10 +14,26 @@
  
  <entry>
    <title>My way into game programming</title>
-   <link href="http://username.github.io/2014/10/20/my-way-into-game-programming"/>
+   <link href="http://username.github.io/2014/10/20/%E6%88%91%E7%9A%84%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF"/>
    <updated>2014-10-20T00:00:00+08:00</updated>
-   <id>http://username.github.io/2014/10/20/my-way-into-game-programming</id>
-   <content type="html"></content>
+   <id>http://username.github.io/2014/10/20/我的游戏开发之路</id>
+   <content type="html">&lt;h1 id='directx'&gt;有关于DirectX&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;逐梦之旅：Windows游戏编程之从零开始　　～2014.10.25&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;研究生生涯是在无聊，又有找工作的压力，所以想要找些东西学一下，想到以前本科时的同学写的书，便拿来一看．虽然时囫囵吞枣看了一下，但了解了一些游戏编程方面的基础知识.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;推荐：***&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;To Learn 红龙书&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content>
  </entry>
  
  
